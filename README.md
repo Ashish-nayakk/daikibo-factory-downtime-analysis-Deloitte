@@ -52,7 +52,6 @@ This task is part of the **:contentReference[oaicite:5]{index=5} Data Analytics 
 
 ## 🔗 Repository Purpose
 This repository documents my work and findings for Task 1 and showcases my data analytics and Tableau visualization skills.  
-Hosted on **:contentReference[oaicite:6]{index=6}** for portfolio and learning purposes.
 
 ---
 
