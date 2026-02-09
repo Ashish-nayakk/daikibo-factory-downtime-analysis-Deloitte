@@ -1,59 +1,37 @@
- Daikibo Factory Downtime Analysis — Task 1 (Deloitte Australia Job Simulation)
+# 📊 Deloitte Australia Data Analytics Virtual Experience (The Forage)
 
-This project was completed as part of the **:contentReference[oaicite:3]{index=3} Data Analytics Virtual Job Simulation** on Forage.  
-In Task 1, I analyzed telemetry data provided by **:contentReference[oaicite:4]{index=4}** to understand factory-level machine downtime and device performance issues across four global locations.
+This repository contains my work for the Deloitte Australia Data Analytics Virtual Job Simulation on The Forage.  
+The program simulates real consulting tasks involving data analysis, dashboard creation, and forensic data investigation.
 
-The objective was to build an **interactive Tableau dashboard** capable of answering:
-- Which factory had the highest machine downtime?
-- Which machine types contributed the most to unhealthy events?
-- How can telemetry-based insights guide operational decision-making?
-
----
-
-## 🔧 Tools & Skills Used
-- **Tableau Desktop**
-- **Data Cleaning & Preparation**
-- **Calculated Fields** (10-minute downtime per “Unhealthy” event)
-- **Interactive Dashboard Design**
-- **Operational Analytics & Insight Generation**
+Throughout the experience, I worked on tasks involving:
+- Machine downtime analysis using telemetry data  
+- Tableau dashboard development  
+- Operational insights and recommendations  
+- Gender pay equality analysis  
+- Data classification and forensic reporting  
 
 ---
 
-## 📁 Project Structure
+## 🧩 Tasks Completed in This Repository
 
+### ✅ Task 1 – Factory Machine Downtime Analysis
+Analyzed one month of telemetry data from Daikibo Industrials to identify:
+- The factory with the highest downtime  
+- Machine types contributing most to breakdowns  
+- Patterns in unhealthy machine events  
+
+Delivered as an interactive Tableau dashboard.
+
+Files included:
 Task 1 Data analysis/
-│── Images/ # Screenshots of the Tableau dashboard
-│── Task 1.twb # Tableau workbook file
-│── Guide.pdf # Official Deloitte task guide (Forage)
+│── Images/
+│── Task 1.twb
+│── Guide.pdf
 
+daikibo-factory-downtime-analysis-Deloitte/
+│── README.md # Main README (this file)
+│── Task 1 Data analysis/ # Completed Task 1 deliverables
+│── Task 2 (upcoming)/ # Will be added soon
 
----
-
-## 📌 Key Insights from Task 1
-- **Daikibo Factory Seiko** reported the highest downtime among all units.
-- Machine types such as **LaserWelder** and **LaserCutter** showed the largest number of unhealthy events.
-- The use of calculated fields simplified downtime measurement, with each “Unhealthy” log representing **10 minutes** of non-functional machine time.
-- The final dashboard allows managers to compare factories and drill down into machine-based inefficiencies quickly.
-
----
-
-## 📷 Dashboard Preview
-_Add your screenshot path here, for example:_
-
-Task 1 Data analysis/Images/dashboard_overview.png
-
-
----
-
-## 🎓 About the Program
-This task is part of the **:contentReference[oaicite:5]{index=5} Data Analytics Job Simulation**, where participants solve real-world consulting problems using data analysis, visualization, and critical thinking.
-
----
-
-## 🔗 Repository Purpose
-This repository documents my work and findings for Task 1 and showcases my data analytics and Tableau visualization skills.  
-
----
-
-## 📬 Contact
-Feel free to connect if you'd like to collaborate or discuss analytics projects!
+##  Author
+**Ashish Kumar Nayak**
